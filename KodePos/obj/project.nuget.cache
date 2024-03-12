@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "719nLHh4ys+uKOd/jWjlEdsgYOISsTOvILtCrdabiuOwub9R9m+WbFYYGn/tSQJse64eMTRfqV/kUmBIV+iskw==",
+  "success": true,
+  "projectFilePath": "D:\\Ngoding\\C#\\tpmodul4_1302223019\\1\\KodePos\\KodePos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\puris\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\puris\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\puris\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\bin\Debug\net8.0\KodePos.exe
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\bin\Debug\net8.0\KodePos.deps.json
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\bin\Debug\net8.0\KodePos.runtimeconfig.json
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\bin\Debug\net8.0\KodePos.dll
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\bin\Debug\net8.0\KodePos.pdb
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\KodePos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\KodePos.AssemblyInfoInputs.cache
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\KodePos.AssemblyInfo.cs
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\KodePos.csproj.CoreCompileInputs.cache
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\KodePos.dll
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\refint\KodePos.dll
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\KodePos.pdb
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\KodePos.genruntimeconfig.cache
+D:\Ngoding\C#\tpmodul4_1302223019\1\KodePos\obj\Debug\net8.0\ref\KodePos.dll
